@@ -19,6 +19,8 @@ temp/
 data/DoctrineORMModule/Proxy/
 data/DoctrineORMModule/cache/
 
+# Netbeans
+nbproject/
 
 # Legacy ZF1
 demos/
