@@ -15,3 +15,8 @@ Syötteet tulevat joko
 2. xml-tiedostosta.
 3. komentoriviltä.
 
+###Tarvittavat syötteet
+- käsiteltävät tiedostot/hakemistot
+- lisenssi-otsakkeen malli
+- mahdolliset tarvittavat korvaavat lausekkeet?
+- haluttu toimenpide
